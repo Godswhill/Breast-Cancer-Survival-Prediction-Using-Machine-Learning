@@ -76,3 +76,10 @@ Features: A combination of numerical and categorical diagnostic variables
   lazypredict – quick model comparison
   
   pyforest – auto-import utilities
+
+
+# 👨‍💻 Author
+Godswill Eshiet
+GitHub: www.github.com/Godswhill
+
+Email: willz2you@gmail.com
